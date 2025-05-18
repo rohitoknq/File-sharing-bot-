@@ -1,14 +1,14 @@
 [
     {
         "session": "ses",
-        "token": "764xxxx91:AAFEm1xxxxxxz5txhxgmk",
-        "api_id": "26xxxx00",
-        "api_hash": "9ea494xxxxxxxxxxx4bbd",
+        "token": "7608028119:AAGFmC57jqWtMJut6vJPcSxD73-yRS2pLB8",
+        "api_id": "25984365",
+        "api_hash": "f16f22343566116e2319621b07ba5013",
         "workers": 8,
-        "db_uri": "mongodb+srv://Clustexxxxxxxxxxx.net/?retryWrites=true&w=majority&appName=Cluster0",
-        "db_name": "name",
+        "db_uri": "mongodb+srv://roseoriana_filestore:Kiritosinon3009@cluster0.k4g1s1t.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "db_name": "RoseOriana",
         "fsubs": [[-1002074478106, true, 5]],
-        "db": -1002074478106,
+        "db": -1002631943634,
         "auto_del": 0,
         "messages": {
             "START": "<blockquote expandable>__Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit sed.\nVivamus luctus urna sed urna.\nCurabitur blandit tempus porttitor.\nNullam quis risus eget urna.__</blockquote>",
@@ -18,7 +18,7 @@
             "START_PHOTO": "",
             "FSUB_PHOTO": ""
         },
-        "admins": [78324663, 73468932],
+        "admins": [5779295913, 73468932],
         "disable_btn": true,
         "protect": false
     }
