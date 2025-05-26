@@ -7,7 +7,7 @@
         "workers": 8,
         "db_uri": "mongodb+srv://roseoriana_filestore:Kiritosinon3009@cluster0.k4g1s1t.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "db_name": "RoseOriana",
-        "fsubs": [[-1002337660214, true, 5]],
+        "fsubs": [[, true, 5]],
         "db": -1002590245086,
         "auto_del": 0,
         "messages": {
